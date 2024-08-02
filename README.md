@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tristan and I am a student a Lone Star College Montgomery. 
 - 👀 I’m interested in becoming a software developer.
 - 🌱 I’m currently learning Python, C++, and JS
+- The languages I know are C, C++, Python, JS, HTML, CSS, SQL
 - 📫 How to reach me: montebtri4@gmail.com
